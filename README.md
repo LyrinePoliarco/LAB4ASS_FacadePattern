@@ -14,3 +14,5 @@ Cart: A service class implementing the HotelService interface, responsible for h
 FrontDesk: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.
 
 HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
+
+![Blank diagram](https://github.com/user-attachments/assets/335aafd1-858c-4bf8-a8fb-4df67c26b92e)
